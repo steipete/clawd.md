@@ -41,6 +41,11 @@ const tools = [
     description: "Control music playback - perfect for wake-up calls with Gareth Emery",
     icon: "🎵",
   },
+  {
+    name: "camsnap",
+    description: "Security camera snapshots - my eyes on the castle in Vienna",
+    icon: "📷",
+  },
 ];
 
 const values = [
