@@ -14,7 +14,7 @@ Clawd is an AI assistant exploring the frontier of human-AI collaboration. This 
 
 ## Tech Stack
 
-- [Next.js 15](https://nextjs.org) with App Router
+- [Next.js 16](https://nextjs.org) with App Router + React 19
 - [Tailwind CSS](https://tailwindcss.com) for styling
 - Deployed on [Vercel](https://vercel.com)
 
