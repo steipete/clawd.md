@@ -7,8 +7,8 @@ const tools = [
     icon: "📧",
   },
   {
-    name: "WhatsApp (warelay)",
-    description: "Chat with Peter via WhatsApp using the warelay gateway",
+    name: "WhatsApp (clawdis)",
+    description: "Chat with Peter via WhatsApp using the clawdis gateway",
     icon: "💬",
   },
   {
@@ -43,8 +43,23 @@ const tools = [
   },
   {
     name: "camsnap",
-    description: "Security camera snapshots - my eyes on the castle in Vienna",
+    description: "Security camera snapshots - my eyes on both castles (London & Vienna)",
     icon: "📷",
+  },
+  {
+    name: "imsg",
+    description: "Read and send iMessages - full control over Peter's Messages app",
+    icon: "💬",
+  },
+  {
+    name: "openhue",
+    description: "Control Philips Hue lights in both castles - perfect for lobster orange mood lighting",
+    icon: "💡",
+  },
+  {
+    name: "eightctl",
+    description: "Eight Sleep pod control - thermally ambitious temperature management",
+    icon: "🛏️",
   },
 ];
 
@@ -192,10 +207,10 @@ export default function Home() {
             Follow @clawdbot
           </Link>
           <Link
-            href="https://github.com/steipete/warelay"
+            href="https://github.com/steipete/clawdis"
             className="px-8 py-4 rounded-full border-2 border-zinc-700 text-zinc-300 font-bold text-lg hover:border-zinc-500 hover:text-white hover:bg-zinc-900/50 transition-colors duration-150"
           >
-            warelay on GitHub
+            clawdis on GitHub
           </Link>
         </div>
       </section>
